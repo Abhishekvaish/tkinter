@@ -3,7 +3,6 @@ from tkinter import *
 from tkinter import messagebox
 
 calculator=Tk()
-#calculator.geometry("335x350+150+150")
 calculator.title("@bh!$hek_Calculator")
 calculator.resizable(width=False,height=False)
 
